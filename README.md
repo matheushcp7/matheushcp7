@@ -4,7 +4,7 @@
   </h1>
   
    <p align="center">
-  Tenho 20 anos e desde criança, sempre fui fascinado por computadores, eletrônicos, tecnologia em geral. Atualmente, estou estudando Sistemas de Informação na Universidade Federal de Uberlândia para me tornar um profissional de TI qualificado.
+  Tenho 20 anos e desde criança, sempre fui curioso, e acho que esse foi o fator que mais me empurrou pra carreira de TI. Atualmente, estou estudando Sistemas de Informação na Universidade Federal de Uberlândia e em busca de um estágio.
   </p>
 
 <div align="center" style="display: inline_block"> 
