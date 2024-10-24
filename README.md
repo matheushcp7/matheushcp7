@@ -43,10 +43,9 @@ printf("Hello World, Seja Bem Vindo");
 
 ### Interesses:
 
-* Desenvolvimento Android
-* Web
-* Linux
-* POO
+*Desenvolvimento Web
+*Back-end
+*Banco de dados 
 
 
 [mais exemplos](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
