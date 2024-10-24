@@ -1,10 +1,10 @@
 <h1 align="center">
-    Oi, me chamo  
+    Oi, eu sou o 
     <a href="#">Matheus Humberto</a>
   </h1>
   
    <p align="center">
-  Tenho 20 anos e desde criança, sempre fui curioso, acho que isso foi o que mais me fez seguir na carreira de TI. Atualmente, estou estudando Sistemas de Informação na Universidade Federal de Uberlândia em busca de um estágio.
+  Tenho 20 anos e desde criança, sempre fui fascinado por computadores, eletrônicos, tecnologia em geral. Atualmente, estou estudando Sistemas de Informação na Universidade Federal de Uberlândia para me tornar um profissional de TI qualificado.
   </p>
 
 <div align="center" style="display: inline_block"> 
@@ -43,9 +43,10 @@ printf("Hello World, Seja Bem Vindo");
 
 ### Interesses:
 
-*Desenvolvimento Web
-*Back-end
-*Banco de dados 
+* Desenvolvimento Android
+* Web
+* Linux
+* POO
 
 
 [mais exemplos](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
