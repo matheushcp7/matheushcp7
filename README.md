@@ -1,10 +1,10 @@
 <h1 align="center">
-    Oi, eu sou o 
+    Oi, me chamo  
     <a href="#">Matheus Humberto</a>
   </h1>
   
    <p align="center">
-  Tenho 19 anos e desde criança, sempre fui fascinado por computadores, eletrônicos, tecnologia em geral. Atualmente, estou estudando Sistemas de Informação na Universidade Federal de Uberlândia para me tornar um profissional de TI qualificado.
+  Tenho 20 anos e desde criança, sempre fui curioso, acho que isso foi o que mais me fez seguir na carreira de TI. Atualmente, estou estudando Sistemas de Informação na Universidade Federal de Uberlândia em busca de um estágio.
   </p>
 
 <div align="center" style="display: inline_block"> 
