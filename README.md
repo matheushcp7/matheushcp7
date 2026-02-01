@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, meu nome é Matheus</h1>
 <h3 align="center">Tenho 22 anos e desde criança, sempre fui curioso, e acho que esse foi o fator que mais me empurrou pra carreira de TI. Atualmente, estou estudando Sistemas de Informação na Universidade Federal de Uberlândia e em busca de um estágio.</h3>
 
-- 📫 Entre em contato através do e-mail: **matheushcp7@gmail.com**
+- 📫 Entre em contato através do 
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
@@ -9,9 +9,4 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn do Matheus" height="30" width="40" />
 </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheushcp7&show_icons=true&locale=en&layout=compact" alt="matheushcp7" /></p>
-
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=matheushcp7&show_icons=true&locale=en" alt="matheushcp7" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matheushcp7&" alt="matheushcp7" /></p>
+<p>e-mail: **matheushcp7@gmail.com**</p>
