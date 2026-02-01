@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, meu nome é Matheus</h1>
 <h3 align="center">Tenho 22 anos e desde criança, sempre fui curioso, e acho que esse foi o fator que mais me empurrou pra carreira de TI. Atualmente, estou estudando Sistemas de Informação na Universidade Federal de Uberlândia e em busca de um estágio.</h3>
 
-- 📫 Posso entrar em contato em **matheushcp7@gmail.com**
+- 📫 Entre em contato através do e-mail: **matheushcp7@gmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
