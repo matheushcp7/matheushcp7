@@ -1,5 +1,5 @@
 <h1 align="center">
-    Oi, eu sou o 
+    Olá, eu sou o 
     <a href="#">Matheus Humberto</a>
   </h1>
   
@@ -28,7 +28,7 @@
  
 <div align="center" > 
   <a href = "mailto:matheushcp7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://www.linkedin.com/in/matheus-humberto-9a73bb335/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href ="https://www.linkedin.com/in/matheus-humberto-corr%C3%AAa-pena-9a73bb335/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
  ##
